@@ -1,5 +1,7 @@
 # Introducing Steem (beta)
 
+[![Join the chat at https://gitter.im/steemDAO/Lobby](https://badges.gitter.im/steemDAO/Lobby.svg)](https://gitter.im/steemDAO/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Steem is a Delegated Proof of Stake blockchain that uses a "Proof of Brain" social consensus algorithm for token allocation.
 
   - Currency symbol STEEM.
